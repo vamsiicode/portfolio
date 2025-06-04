@@ -1,2 +1,12 @@
 # in anchor tag is used to link specific id in the same page
 
+we cant publish react directly to the internet
+
+npm run build - it will take our react project and convert into html,css,js
+
+npm run preview
+
+deploy
+netlify
+
+drop dist folder manually in the dropbox 
