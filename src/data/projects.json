@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Wander Lust",
+    "imageSrc": "projects/project.png",
+    "description": "This is a real life project similar to AirBnb website where you can check out the hotels,resorts.",
+    "skills": [ "Node","Express","JavaScript","MongoDB"],
+    "demo": "https://wanderlust-tght.onrender.com/listings",
+    "source": "https://github.com/vamsiicode/WanderLust"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

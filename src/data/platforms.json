@@ -1,0 +1,18 @@
+[
+  {
+    "title": "CodeForces",
+    "url": "https://codeforces.com/profile/Vamsi_Krishna_777",
+    "imageSrc": "platforms/codeforces.png"
+  },
+  {
+    "title": "CodeChef",
+     "url": "https://www.codechef.com/users/vamsikrishna93",
+    "imageSrc": "platforms/codechef.png"
+  },
+  {
+    "title": "LeetCode",
+   
+    "url": "https://leetcode.com/u/V_K_Reddy/",
+    "imageSrc": "platforms/leetcode.png"
+  }
+]
